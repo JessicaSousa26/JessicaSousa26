@@ -10,14 +10,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaSousa26&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<div align="center">
-  <a href="https://github.com/JessicaSousa26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSousa26&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSousa26&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JessicaSousa26}/count.svg" /></p> 
